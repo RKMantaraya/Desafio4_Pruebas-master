@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Relojería</string>
+    <string name="start">start</string>
+    <string name="q1_favorite_wristband_color">¿Qué color preferirías en la correa del reloj?</string>
+    <string name="q2_comments_for_the_store">¿Quieres dejar algún comentario?</string>
+    <string name="end_results">Resultados:</string>
+</resources>
